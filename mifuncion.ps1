@@ -1,7 +1,7 @@
 
 #Funcion Hola Mundo
 
-mifuncion {
+function mifuncion {
 
     echo “hola mundo”
 
