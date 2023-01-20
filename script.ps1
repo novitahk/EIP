@@ -1,0 +1,1 @@
+$ipV4 = Test-Connection -ComputerName (hostname) -Count 1 | Select -ExpandProperty IPV4Address; $ipV4.IPAddressToString
